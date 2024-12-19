@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on project in general (I already know Java and Scala)
 - 📫 How to reach me: elliottrenaud@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm called Cupidon by my friend
 
 <!---
 elliott-git/elliott-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
