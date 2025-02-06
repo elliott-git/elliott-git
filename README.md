@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @elliott-git
-- 👀 I’m interested in computer science, music and climbing
+- 👀 I’m interested in computer science, music and CrossFit
 - 🌱 I’m currently learning computer science at EPFL
 - 💞️ I’m looking to collaborate on project in general (I already know Java and Scala)
 - 📫 How to reach me: elliottrenaud@gmail.com
