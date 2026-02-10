@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elliott-git
-- 👀 I’m interested in computer science, music and CrossFit
+- 👀 I’m interested in computer science, music and sports (running, CrossFit, climbing)
 - 🌱 I’m currently learning computer science at EPFL
-- 💞️ I’m looking to collaborate on project in general (I already know Java and Scala)
+- 💞️ I’m looking to collaborate on project in general (I already know Java, Scala, C and a bit of Kotlin with Jetpack Compose)
 - 📫 How to reach me: elliottrenaud@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm called Cupidon by my friend
